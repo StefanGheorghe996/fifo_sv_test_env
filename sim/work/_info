@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\SV Projects\fifo\sim
+Xfifo_base_unit_sv_unit
+Z1 Mx1 6 sv_std 3 std
+Z2 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z3 !s100 SX?I3AoBc>:nS=?MiVz8B3
+Z4 IKZI@26UXdE?lAZ<8hLY_z3
+Z5 VKZI@26UXdE?lAZ<8hLY_z3
+S1
+Z6 dD:\SV Projects\fifo\sim
+Z7 w1586783833
+Z8 8D:/SV Projects/fifo/env/fifo_base_unit.sv
+Z9 FD:/SV Projects/fifo/env/fifo_base_unit.sv
+L0 1
+Z10 OE;L;6.6d;45
+r1
+31
+Z11 o-work work -L mtiAvm -L mtiOvm -L mtiUPF
+!i103 1
+!s85 0
+Xfifo_packet_sv_unit
+R1
+R2
+Z12 !s100 f4QX:MJf9>i7oTf<di9:j1
+Z13 IGkEIHT;YcjL;_izGmPKcg0
+Z14 VGkEIHT;YcjL;_izGmPKcg0
+!i103 1
+S1
+R6
+Z15 w1586783540
+Z16 8D:/SV Projects/fifo/env/fifo_packet.sv
+Z17 FD:/SV Projects/fifo/env/fifo_packet.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11

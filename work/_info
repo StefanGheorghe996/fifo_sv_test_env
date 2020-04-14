@@ -1,0 +1,373 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\SV Projects\fifo\sim
+T_opt
+V<eS?KLM_;_4WIHJ?`XeEV0
+Z1 04 7 4 work fifo_tb fast 0
+=1-70c94ee9af36-5e949a8f-244-3218
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z3 OE;O;6.6d;45
+Z4 dD:\SV Projects\fifo\sim
+T_opt1
+VH:8W0eXLLm4GE6?Z1gWYe1
+R1
+=1-70c94ee9af36-5e955510-224-33a0
+R2
+n@_opt1
+R3
+R4
+vclock_rst_gen
+VE8Q:IPKbi^zRQh_7h?GH@2
+r1
+!s85 0
+31
+IGJZ6QIPAP^TRAAJbAQeMO3
+Z5 dD:\SV Projects\fifo
+w1586794542
+8D:/SV Projects/fifo/env/clock_rst_gen.v
+FD:/SV Projects/fifo/env/clock_rst_gen.v
+L0 5
+Z6 OE;L;6.6d;45
+Z7 !s102 -nocovercells
+Z8 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+!s100 T`SFnHTTo`4NQM45?zP;R1
+vfifo
+VEGWH50TlB0Z9Y5<4ibH;A2
+r1
+31
+IZF]YMXAIY57N8efkMKbgF2
+R5
+Z9 w1413365428
+8D:/SV Projects/fifo/hdl/fifo.v
+FD:/SV Projects/fifo/hdl/fifo.v
+L0 1
+R6
+R7
+R8
+!s85 0
+!s100 lOK^f8MNm`EVQY5NDFY[m0
+Xfifo_base_unit
+Z10 Mx1 6 sv_std 3 std
+Z11 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+VI:BP:zmRJTjJACdXMjVlJ3
+r1
+31
+II:BP:zmRJTjJACdXMjVlJ3
+S1
+R5
+w1586792720
+Z12 8D:/SV Projects/fifo/env/fifo_base_unit.sv
+Z13 FD:/SV Projects/fifo/env/fifo_base_unit.sv
+L0 1
+R6
+R7
+Z14 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+!s85 0
+!s100 ;JLm[eb`d=9SAmW09[Ic32
+Xfifo_base_unit_sv_unit
+R10
+R11
+I?kcjA_[ill=kWgm[f[mV31
+V?kcjA_[ill=kWgm[f[mV31
+S1
+R5
+w1586783833
+R12
+R13
+L0 1
+R6
+r1
+31
+R7
+R14
+!s100 SX?I3AoBc>:nS=?MiVz8B3
+!i103 1
+!s85 0
+Xfifo_driver
+R10
+R11
+Z15 Mx2 4 work 14 fifo_base_unit
+Z16 DXx4 work 14 fifo_base_unit 0 22 I:BP:zmRJTjJACdXMjVlJ3
+Z17 Mx3 4 work 11 fifo_packet
+Z18 DXx4 work 11 fifo_packet 0 22 SGX;Kz=L[Tjd5LTHzA@1l1
+VK6LAB6@XYjHY2[JYaPNK_2
+r1
+31
+IK6LAB6@XYjHY2[JYaPNK_2
+S1
+R5
+w1586845008
+Z19 8D:/SV Projects/fifo/env/fifo_driver.sv
+Z20 FD:/SV Projects/fifo/env/fifo_driver.sv
+L0 1
+R6
+R7
+R14
+!s85 0
+!s100 AN959i<]CMGgEdGXaiQzn3
+Xfifo_driver_sv_unit
+R10
+R11
+R15
+R16
+R17
+Z21 DXx4 work 11 fifo_packet 0 22 ^4BSGCEYO`:Xi5Yo1HNH;0
+ILcF8NmJ9[kmH9=[TfglWP3
+VLcF8NmJ9[kmH9=[TfglWP3
+S1
+R5
+w1586792774
+R19
+R20
+L0 1
+R6
+r1
+31
+R7
+R14
+!s100 QO<7noeZm3TSK<7Ugom9f3
+!i103 1
+!s85 0
+Xfifo_generator
+R10
+R11
+R15
+R16
+R17
+R18
+VM6055`ZL@giPbl0JT4ben1
+r1
+31
+IM6055`ZL@giPbl0JT4ben1
+S1
+R5
+w1586798745
+Z22 8D:/SV Projects/fifo/env/fifo_generator.sv
+Z23 FD:/SV Projects/fifo/env/fifo_generator.sv
+L0 1
+R6
+R7
+R14
+!s85 0
+!s100 5cEHlO7WzPJGczLmj_]Sf1
+Xfifo_generator_sv_unit
+R10
+R11
+R15
+R16
+R17
+R21
+Ii4Z7[ikHf_SNji]3JLQ0R3
+Vi4Z7[ikHf_SNji]3JLQ0R3
+S1
+R5
+w1586792811
+R22
+R23
+L0 1
+R6
+r1
+31
+R7
+R14
+!s100 [S^6_ZYecVl_^DQBX>:JI1
+!i103 1
+!s85 0
+Yfifo_if
+R10
+R11
+V12EfoYei>>HmSh7lG@oQ>3
+r1
+31
+I<VichlOd]XJfPhgS^I1ZX0
+S1
+R5
+w1586796926
+8D:/SV Projects/fifo/env/fifo_if.sv
+FD:/SV Projects/fifo/env/fifo_if.sv
+L0 1
+R6
+R7
+R14
+!s85 0
+!s100 hBZK=T5TLYzYRnEIbKC0F2
+!s105 fifo_if_sv_unit
+Xfifo_include_sv_unit
+R10
+R11
+Vn1l[[U9=k=6fEgnaEoMF_2
+r1
+31
+In1l[[U9=k=6fEgnaEoMF_2
+S1
+R5
+Z24 w1586788267
+8D:/SV Projects/fifo/env/fifo_include.sv
+FD:/SV Projects/fifo/env/fifo_include.sv
+Z25 Fenv/fifo_if.sv
+Z26 Fenv/fifo_base_unit.sv
+Z27 Fenv/fifo_packet.sv
+Z28 Fenv/fifo_driver.sv
+Z29 Fenv/fifo_generator.sv
+Z30 Fenv/fifo_environment.sv
+Z31 Fenv/fifo_tb.sv
+L2 1
+R6
+R7
+R14
+!s100 BD_028nf7ZBPXRE>Heomf1
+!s85 0
+!i103 1
+Xfifo_packet
+R10
+R11
+VSGX;Kz=L[Tjd5LTHzA@1l1
+r1
+31
+ISGX;Kz=L[Tjd5LTHzA@1l1
+S1
+R5
+w1586799705
+Z32 8D:/SV Projects/fifo/env/fifo_packet.sv
+Z33 FD:/SV Projects/fifo/env/fifo_packet.sv
+L0 1
+R6
+R7
+R14
+!s85 0
+!s100 z0:@F=cGVb_Fm2H>E]V=K0
+Xfifo_packet_sv_unit
+R10
+R11
+IbZL0LHmc[^Qn>oEXzCO7m2
+VbZL0LHmc[^Qn>oEXzCO7m2
+S1
+R5
+w1586784744
+R32
+R33
+L0 1
+R6
+r1
+31
+R7
+R14
+!s100 eohPoE]3@eXO^aGMXbKae0
+!i103 1
+!s85 0
+vfifo_tb
+R10
+R11
+R15
+R16
+R17
+R18
+Z34 Mx4 4 work 14 fifo_generator
+DXx4 work 14 fifo_generator 0 22 M6055`ZL@giPbl0JT4ben1
+Z35 Mx5 4 work 11 fifo_driver
+DXx4 work 11 fifo_driver 0 22 K6LAB6@XYjHY2[JYaPNK_2
+VE6FzO6X^BSHbEP>3A9AN]2
+r1
+31
+IBYD7Bk?dASdbCl^1;QbCc2
+S1
+R5
+w1586798347
+Z36 8D:/SV Projects/fifo/env/fifo_tb.sv
+Z37 FD:/SV Projects/fifo/env/fifo_tb.sv
+L0 1
+R6
+R7
+R14
+!s85 0
+!s100 7bj7T20dX8S0HX[6@57?X3
+!s105 fifo_tb_sv_unit
+Xfifo_tb_sv_unit
+R10
+R11
+R15
+R16
+R17
+R21
+R34
+DXx4 work 14 fifo_generator 0 22 3DLoZPJini0Z1<L]Imf^V1
+R35
+DXx4 work 11 fifo_driver 0 22 Y_dAPYfEkXa3jG?d=8XZc0
+VOc^[]gNb]24BzHL7cPBN11
+r1
+31
+IOc^[]gNb]24BzHL7cPBN11
+S1
+R5
+w1586795442
+R36
+R37
+L0 2
+R6
+R7
+R14
+!s100 X3]hzc7cl:WhJC?c5d^da0
+!s85 0
+!i103 1
+Xfifo_test_basic_sv_unit
+R10
+R11
+VITfV4XhekNEaST_]GHE^h2
+r1
+31
+IITfV4XhekNEaST_]GHE^h2
+S1
+R5
+R24
+Z38 8D:/SV Projects/fifo/tests/fifo_test_basic.sv
+Z39 FD:/SV Projects/fifo/tests/fifo_test_basic.sv
+Fenv/fifo_include.sv
+R25
+R26
+R27
+R28
+R29
+R30
+R31
+L3 1
+R6
+R7
+R14
+!s100 _Ad5zm=L2LGHS3:RMdYGE2
+!s85 0
+!i103 1
+vmemory
+VfLN75<5M<0C=o:g9I]J]l1
+r1
+31
+Io7BTeR3c[`n90cXBHI]KP2
+R5
+R9
+8D:/SV Projects/fifo/hdl/memory.v
+FD:/SV Projects/fifo/hdl/memory.v
+L0 1
+R6
+R7
+R8
+!s85 0
+!s100 ghAa4H43dFLzP6RzKLMRG1
+4test
+I1JV?0XVPF`7dGRO`kG7K]0
+Vk<3<[f=78GX=_HO53D;7>3
+S1
+R5
+w0
+R38
+R39
+L1 3
+R6
+r1
+31
+R7
+R14
+!s100 1<O43Kj9TU6`T2AW6?]OD1
+!s105 fifo_test_basic_sv_unit
+!s85 0
